@@ -122,8 +122,9 @@ The project includes several interactive visualizations via BERTopic and Plotly:
 - `visualize_documents()` — documents in 2D space (UMAP reduction)
 - `visualize_distribution()` — topic distribution within a document
 - `visualize_topics_over_time()` — trends over time
-```
 
+```
+```
 ## Technologies
 
 - **Python**
